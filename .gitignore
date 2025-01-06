@@ -1,1 +1,15 @@
+.cache/
+.config/
+.local/
+.upm/
+.replit
+replit.nix
+node_modules/
+modules.stamp
+store.json
+attached_assets/
+env/
+latest.json
+htop/
+drizzle-studio/
 
